@@ -1,0 +1,160 @@
+#file{
+	margin-left: 38px;
+    margin-right: auto;
+    width: 94%;
+    background-image: url(Снимок1.PNG);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: 100%;
+    float: left;
+}
+
+#text{
+	color: #333333;
+	font-family: Verdana;
+	font-size: 17px;
+	float: right;
+	overflow:auto;
+	height:auto; 
+	width:770px; 
+	padding:8px; 
+}
+
+#all{
+	width: auto;
+	height: auto;
+}
+
+#left{
+	float: left;
+	margin-left: 38px;
+	height:auto;
+	width:270px;
+	background-color: #FCFCFC;
+}
+
+#friend{
+	float: left;
+	color: #327A7D;
+	font-family: Verdana;
+	font-size: 12px;
+	margin-left: 38px;
+	height:auto; 
+	width:250px; 
+	padding: 13px;
+	box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+	background-color: #F0F0F0;
+}
+
+#sot{
+	float: left;
+	margin-left: 38px;
+	margin-top: 20px; 
+	height:auto; 
+	width:250px; 
+	padding: 13px;
+	box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+	background-color: #F0F0F0;
+}
+
+#center{
+	margin-right: 38px;
+	float:right;
+	height:auto;
+	width:820px;
+	background-color: #FCFCFC;
+}
+
+#content{
+	margin-right: 70px;
+	float:right; 
+	padding:6px; 
+	height:auto; 
+	width:700px; 
+	box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+	background-color: #F0F0F0;
+	margin-bottom: 20px;
+}
+
+#line{
+	width:600px;
+	box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.4);
+	margin-top: 50px;
+	margin-right: 70px;
+	margin-left: 90px;
+	height: 0.1px;
+	color: #EEEEFF;
+}
+
+#dno{
+	width: 100%;
+	margin-left: 38px;
+    margin-right: 38px;
+    margin-top: 30px;
+    height: auto;
+    color: #327A7D;
+}
+
+#vis{
+	padding: 5px;
+	width: 200px;
+	margin: 10px;
+	position: absolute;
+	left: 230px;
+	top: 665px;
+	height: 250px;
+	box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+	background-color: #F0F0F0;
+	font-size: 12px;
+}
+
+#komp{
+	padding: 5px;
+	width: 200px;
+	position: absolute;
+	margin: 10px;
+	left: 520px;
+	top: 665px;
+	height: 250px;
+	box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+	background-color: #F0F0F0;
+	font-size: 12px;
+}
+
+#mag{
+	padding: 5px;
+	width: 240px;
+	position: absolute;
+	margin: 10px;
+	left: 805px;
+	top: 665px;
+	height: 250px;
+	box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+	background-color: #F0F0F0;
+	font-size: 12px;
+}
+
+#footer{
+	position: relative;
+	left: 0;
+	top: 1000px;
+	width: 100%;
+	background-color: #323232;
+	height: 300px;
+}
+
+#kont{
+	position: absolute;/*float: left;*/
+	color: white;
+	left: 200px;
+	top: 80px;
+	height: auto; 
+}
+
+#zak{
+	position: absolute;/*float: left;*/
+	color: white;
+	right: 200px;
+	top: 80px;
+	height: auto; 
+}
